@@ -4,12 +4,18 @@ This project uses ruby and rspec unit test
 
 gem install rspec
 
+
+
 2. run unit test (under root folder)
 
 rspec
 
+
+
 3. read file output report
 
 argument 1: file name
+
 argument 2: folder name
+
 ruby main.rb argument1 argument2
